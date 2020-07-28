@@ -1,0 +1,14 @@
+name: Basic
+version: 1.0
+main: me.aerobyte.Basic
+author: aerobyte
+
+commands:
+  store:
+    aliases: [donate, buy]
+  tp:
+    aliases: [teleport]
+  tphere:
+    aliases: [teleporthere, s]
+  fly:
+    aliases: [flight]
